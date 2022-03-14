@@ -1,0 +1,25 @@
+﻿intron,construct,replicate,fluorescence
+ftz intron,negative control,3,29912
+ftz intron,negative control,2,9023
+ftz intron,negative control,1,12308
+ftz intron,activation control,3,97901
+ftz intron,activation control,2,101651
+ftz intron,activation control,1,99456
+ftz intron,gRNA1 + activation control,3,114008
+ftz intron,gRNA1 + activation control,2,125154
+ftz intron,gRNA1 + activation control,1,93876
+ftz intron,U6-gRNA1-T6 + activation control,3,134362
+ftz intron,U6-gRNA1-T6 + activation control,2,171078
+ftz intron,U6-gRNA1-T6 + activation control,1,121221
+synthetic intron,negative control,3,14735
+synthetic intron,negative control,2,8207
+synthetic intron,negative control,1,13108
+synthetic intron,activation control,3,137246
+synthetic intron,activation control,2,130113
+synthetic intron,activation control,1,161484
+synthetic intron,gRNA1 + activation control,3,109945
+synthetic intron,gRNA1 + activation control,2,83806
+synthetic intron,gRNA1 + activation control,1,123101
+synthetic intron,U6-gRNA1-T6 + activation control,3,113230
+synthetic intron,U6-gRNA1-T6 + activation control,2,110119
+synthetic intron,U6-gRNA1-T6 + activation control,1,88953

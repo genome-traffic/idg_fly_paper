@@ -1,0 +1,67 @@
+﻿intron,construct,replicate,fluorescence
+ftz intron,activation control,3,137246
+ftz intron,activation control,2,130113
+ftz intron,activation control,1,131484
+ftz intron,igRNA1 only,3,9945
+ftz intron,igRNA1 only,2,13806
+ftz intron,igRNA1 only,1,13101
+ftz intron,igRNA2 only,3,18484
+ftz intron,igRNA2 only,2,12262
+ftz intron,igRNA2 only,1,15124
+ftz intron,igRNA3 only,3,14965
+ftz intron,igRNA3 only,2,15154
+ftz intron,igRNA3 only,1,22521
+ftz intron,negative control,3,14735
+ftz intron,negative control,2,20207
+ftz intron,negative control,1,13108
+ftz intron,U6-igRNA1,3,11394
+ftz intron,U6-igRNA1,2,11199
+ftz intron,U6-igRNA1,1,9763
+ftz intron,U6-igRNA1-T6,3,195730
+ftz intron,U6-igRNA1-T6,2,157119
+ftz intron,U6-igRNA1-T6,1,148953
+ftz intron,U6-igRNA2,3,15451
+ftz intron,U6-igRNA2,2,12762
+ftz intron,U6-igRNA2,1,11888
+ftz intron,U6-igRNA2-T6,3,90362
+ftz intron,U6-igRNA2-T6,2,21694
+ftz intron,U6-igRNA2-T6,1,21595
+ftz intron,U6-igRNA3,3,45913
+ftz intron,U6-igRNA3,2,55941
+ftz intron,U6-igRNA3,1,33317
+ftz intron,U6-igRNA3-T6,3,94722
+ftz intron,U6-igRNA3-T6,2,105750
+ftz intron,U6-igRNA3-T6,1,150643
+synthetic intron,activation control,3,106374
+synthetic intron,activation control,2,146023
+synthetic intron,activation control,1,83013
+synthetic intron,igRNA1 only,3,1859
+synthetic intron,igRNA1 only,2,3504
+synthetic intron,igRNA1 only,1,1452
+synthetic intron,igRNA2 only,3,3541
+synthetic intron,igRNA2 only,2,1755
+synthetic intron,igRNA2 only,1,1519
+synthetic intron,igRNA3 only,3,6464
+synthetic intron,igRNA3 only,2,9047
+synthetic intron,igRNA3 only,1,6403
+synthetic intron,negative control,3,2566
+synthetic intron,negative control,2,750
+synthetic intron,negative control,1,1385
+synthetic intron,U6-igRNA1,3,135614
+synthetic intron,U6-igRNA1,2,128437
+synthetic intron,U6-igRNA1,1,161175
+synthetic intron,U6-igRNA1-T6,3,194315
+synthetic intron,U6-igRNA1-T6,2,209427
+synthetic intron,U6-igRNA1-T6,1,243069
+synthetic intron,U6-igRNA2,3,3397
+synthetic intron,U6-igRNA2,2,4403
+synthetic intron,U6-igRNA2,1,3225
+synthetic intron,U6-igRNA2-T6,3,97275
+synthetic intron,U6-igRNA2-T6,2,148154
+synthetic intron,U6-igRNA2-T6,1,171480
+synthetic intron,U6-igRNA3,3,14892
+synthetic intron,U6-igRNA3,2,7822
+synthetic intron,U6-igRNA3,1,6504
+synthetic intron,U6-igRNA3-T6,3,139627
+synthetic intron,U6-igRNA3-T6,2,196772
+synthetic intron,U6-igRNA3-T6,1,174956
